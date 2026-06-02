@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PangramCaseInsensitive {
+public class CaseInsensitivePangramChecker {
 
     public static boolean isPangram(String str) {
 
